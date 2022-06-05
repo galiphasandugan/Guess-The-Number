@@ -5,8 +5,6 @@ buton.addEventListener("click", (e)=> {
 const input =document.querySelector(".input");
 console.log(input.value);
 
-
-
   if (input.value < b) {
     alert('artır');
     e.target
@@ -18,9 +16,6 @@ console.log(input.value);
   if (input.value == b) {
    alert('buldun');
    
-
-
 };
    
-
 });
