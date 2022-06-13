@@ -48,6 +48,19 @@ img{
     text-align: center;
 }
 p{
+    width: 20vw;
     margin-top: 10px;
     font-size: large;
+    color: clack;
+}
+.sonuc{
+  text-align: center;
+  font-size: 3rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 900;
+  width: 20vw;
+  height:20vh;
+  background-color: white;
+  color: red;
+  margin-top: 100px;
 }
